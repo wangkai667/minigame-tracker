@@ -1,0 +1,10 @@
+{
+  "notify": {
+    "provider": "serverchan",
+    "key": "在这里填 Server酱 SendKey（或 PushPlus token，并把 provider 改成 pushplus）"
+  },
+  "lists": ["wx_bestsell", "wx_popular", "wx_new", "dy_bestsell", "dy_popular", "dy_new"],
+  "weekly_weekday": 1,
+  "rise_threshold": 3,
+  "db_path": "data/tracker.db"
+}
